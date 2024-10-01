@@ -1,0 +1,4 @@
+C:\Users\ablopez\source\repos\ListaDeTareas\ListaDeTareas\obj\Debug\net8.0\ListaDeTareas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ablopez\source\repos\ListaDeTareas\ListaDeTareas\obj\Debug\net8.0\ListaDeTareas.AssemblyInfoInputs.cache
+C:\Users\ablopez\source\repos\ListaDeTareas\ListaDeTareas\obj\Debug\net8.0\ListaDeTareas.AssemblyInfo.cs
+C:\Users\ablopez\source\repos\ListaDeTareas\ListaDeTareas\obj\Debug\net8.0\ListaDeTareas.csproj.CoreCompileInputs.cache
